@@ -1,0 +1,13 @@
+LJF Scheduling Simulation Results
+============================================================
+Philosopher     Eat Time        Wait Time      
+------------------------------------------------------------
+P0              8               46             
+P1              12              14             
+P2              9               37             
+P3              14              0              
+P4              11              26             
+============================================================
+Conclusion: LJF is NOT suitable for Dining Philosophers.
+1. It cannot prevent deadlock (circular wait can still occur).
+2. It actively causes starvation for philosophers with short eating times.
