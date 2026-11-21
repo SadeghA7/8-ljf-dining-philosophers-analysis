@@ -43,9 +43,11 @@ This project demonstrates why the **Longest Job First (LJF)** scheduling algorit
 ---
 
 ## 📁 Project Structure / ساختار پروژه
-├── ljf_dining_philosophers.py # Main simulation script / اسکریپت اصلی شبیه‌سازی
-├── ljf_dining_philosophers.png # Generated charts / نمودارهای تولید شده
-├── output.txt # Text results / خروجی متنی
+├── ljf_dining_philosophers.py # Main simulation script /  اسکریپت اصلی شبیه‌سازی <br>
+├── code-Preview.jpg # Code image preview <br>
+├── ljf_dining_philosophers.jpg # Generated charts / نمودارهای تولید شده <br>
+├── output.txt # Text results / خروجی متنی <br>
+├── output.jpg # image results  <br>
 └── README.md # This file / همین فایل
 
 ---
