@@ -12,14 +12,16 @@
 - LJF_Dining_Philosophers_FA-preview.jpg
 - LJF_Dining_Philosophers_FA.pdf
 ---
+### Folder 'Animation'
+- LJF-&-Dining-Philosophers.mp4 | *Dining Philosophers animation*
+- Animation-preview-image.jpg | *Dining Philosophers animation Thumbnail*
+---
 ### Folder 'Py-code'
 - rw_compare.py | *Main simulation script*
 - output.txt | *Code output .txt file*
 - output.jpg | *Code output image*
 - ljf_dining_philosophers.jpg | *Generated charts*
 - code-preview.jpg | *Code preview image*
----
-
 ---
 Author
 ---
